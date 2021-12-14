@@ -10,3 +10,4 @@ Me trying to find all the ways to hack Streamlit CSS
 - https://stackoverflow.com/questions/19858217/how-to-apply-css-to-inner-iframe-element-through-parent-window-css-class 
 - https://discuss.streamlit.io/t/creating-a-nicely-formatted-search-field/1804/2
 - https://discuss.streamlit.io/t/speech-to-text-on-client-side-using-html5-and-streamlit-bokeh-events/7888
+- [Thiago's send event to Streamlit](https://discuss.streamlit.io/t/code-snippet-create-components-without-any-frontend-tooling-no-react-babel-webpack-etc/13064)
